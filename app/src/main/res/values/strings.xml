@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Project</string>
+    <string name="app_name">Företaget</string>
+    <string name="app_info">Sök Medarbetare</string>
+    <string name="button">Klicka Här</string>
 </resources>
